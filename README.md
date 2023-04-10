@@ -1,2 +1,3 @@
 # Scala
-Exercises for Scala laboratories
+
+Exercises for Scala labs.
